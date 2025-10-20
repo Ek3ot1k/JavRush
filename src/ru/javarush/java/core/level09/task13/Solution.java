@@ -5,7 +5,7 @@ public class Solution {
         // Объявляем две строки в разном регистре
         String s1 = "Hello";
         String s2 = "HELLO";
-
+        String s3="";
         // Сравниваем строки без учета регистра с помощью equalsIgnoreCase()
 
 
