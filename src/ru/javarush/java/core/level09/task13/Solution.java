@@ -6,8 +6,7 @@ public class Solution {
         String s1 = "Hello";
         String s2 = "HELLO";
         // Сравниваем строки без учета регистра с помощью equalsIgnoreCase()
-
-
+        System.out.println(s1.equalsIgnoreCase(s2));
         // Выводим результат сравнения (true или false)
 
     }
